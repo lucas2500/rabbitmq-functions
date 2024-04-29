@@ -1,4 +1,4 @@
-module rabbitmq-worker-connector
+module rabbitmq-functions
 
 go 1.22.0
 
