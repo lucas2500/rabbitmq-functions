@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	conn "rabbitmq-functions/connections"
+	conn "github.com/lucas2500/rabbitmq-functions/connections"
 
 	amqp "github.com/rabbitmq/amqp091-go"
 )
